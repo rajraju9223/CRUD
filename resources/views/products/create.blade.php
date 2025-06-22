@@ -26,15 +26,15 @@
     </div>
     <div>
         <label>Handed Over</label>
-        <input type="text" name="qty" placeholder="Qty"/>
+        <input type="text" name="qty" placeholder="Handed Over"/>
     </div>
     <div>
         <label>Functional</label>
-        <input type="text" name="price" placeholder="Price"/>
+        <input type="text" name="price" placeholder="Functional"/>
     </div>
      <div>
         <label>Non Functional</label>
-        <input type="text" name="description" placeholder="Description"/>
+        <input type="text" name="description" placeholder="Non Functional"/>
     </div>    
     <div>
         <input type="submit" value="save a new product"/>
