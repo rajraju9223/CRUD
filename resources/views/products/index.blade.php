@@ -16,7 +16,7 @@
     </div>
     <div>
         <div>
-                <a href="{{route('product.create')}}">Create a product</a>
+                <a href="{{route('product.create')}}">Insert Details</a>
         </div>
         <table border="1">
             <tr>
