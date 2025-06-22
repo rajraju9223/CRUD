@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Product</h1>
+    <h1>JJM District Wise Functional Schemes</h1>
     <div>
         @if(session()->has('success'))
         <div>
@@ -21,10 +21,10 @@
         <table border="1">
             <tr>
                 <th>ID</th>
-                <th>Name</th>
-                <th>Qty</th>
-                <th>Price</th>
-                <th>Description</th>
+                <th>District Name</th>
+                <th>Handed Over</th>
+                <th>Functional</th>
+                <th>Non Functional</th>
                 <th>Edit</th>
                 <th>Delete</th>
             </tr>
