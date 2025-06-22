@@ -37,7 +37,7 @@
         <input type="text" name="description" placeholder="Non Functional"/>
     </div>    
     <div>
-        <input type="submit" value="save a new product"/>
+        <input type="submit" value="save"/>
 </div> 
 </form>
 </body>
