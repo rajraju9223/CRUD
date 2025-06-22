@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Edit/h1>
+<h1>Edit</h1>
 <div>
     @if($errors->any())   
     <ul>
