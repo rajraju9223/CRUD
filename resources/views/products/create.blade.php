@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Create a Product </h1>
+<h1>JJM District Wise Functional Schemes</h1>
 <div>
     @if($errors->any())   
     <ul>
@@ -25,15 +25,15 @@
         <input type="text" name="name" placeholder="Name"/>
     </div>
     <div>
-        <label>Qty</label>
+        <label>Handed Over</label>
         <input type="text" name="qty" placeholder="Qty"/>
     </div>
     <div>
-        <label>Price</label>
+        <label>Functional</label>
         <input type="text" name="price" placeholder="Price"/>
     </div>
      <div>
-        <label>Description</label>
+        <label>Non Functional</label>
         <input type="text" name="description" placeholder="Description"/>
     </div>    
     <div>
