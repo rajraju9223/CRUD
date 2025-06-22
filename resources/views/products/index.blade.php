@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
-    <h1>JJM District Wise Functional Schemes</h1>
+<body style="background-color:powderblue;">
+    <h1 style="text-align: center;">JJM District Wise Functional Schemes</h1>
     <div>
         @if(session()->has('success'))
         <div>
