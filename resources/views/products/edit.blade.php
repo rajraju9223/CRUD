@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Edit a Product </h1>
+<h1>Edit/h1>
 <div>
     @if($errors->any())   
     <ul>
@@ -25,15 +25,15 @@
         <input type="text" name="name" placeholder="Name" value="{{$product->name}}"/>
     </div>
     <div>
-        <label>Qty</label>
+        <label>Handed Over</label>
         <input type="text" name="qty" placeholder="Qty" value="{{$product->qty}}"/>
     </div>
     <div>
-        <label>Price</label>
+        <label>Functional</label>
         <input type="text" name="price" placeholder="Price" value="{{$product->price}}"/>
     </div>
      <div>
-        <label>Description</label>
+        <label>Non Functional</label>
         <input type="text" name="description" placeholder="Description" value="{{$product->description}}"/>
     </div>    
     <div>
