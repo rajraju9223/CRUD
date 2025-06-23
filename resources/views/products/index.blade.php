@@ -20,14 +20,14 @@
                 <a href="{{route('product.create')}}">Insert Details</a>
         </div>
         <table border="1">
-            <tr>
-                <th>ID</th>
-                <th>District Name</th>
-                <th>Handed Over</th>
-                <th>Functional</th>
-                <th>Non Functional</th>
-                <th>Edit</th>
-                <th>Delete</th>
+            <tr style="background-color: #DAB1DA">
+                <th style="color: white">ID</th>
+                <th style="color: white">District Name</th>
+                <th style="color: white">Handed Over</th>
+                <th style="color: white">Functional</th>
+                <th style="color: white">Non Functional</th>
+                <th style="color: white">Edit</th>
+                <th style="color: white">Delete</th>
             </tr>
             @foreach ($products as $product)
                     <tr>
