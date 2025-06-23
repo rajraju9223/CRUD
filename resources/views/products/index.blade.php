@@ -20,7 +20,7 @@
                 <a href="{{route('product.create')}}">Insert Details</a>
         </div>
         <table border="1">
-            <tr style="background-color: #795548">
+            <tr style="background-color: rgb(107 114 128)">
                 <th style="color: black">ID</th>
                 <th style="color: black">District Name</th>
                 <th style="color: black">Handed Over</th>
