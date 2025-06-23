@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-
+<div style="background-color: #0f5e9c;"><h1 style="text-align: center; color: white">JJM District Wise Functional Schemes</h1></div>
 <h1>Edit</h1>
 <div>
     @if($errors->any())   
