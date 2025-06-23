@@ -21,13 +21,13 @@
         </div>
         <table border="1">
             <tr style="background-color: rgb(107 114 128)">
-                <th style="color: black">ID</th>
-                <th style="color: black">District Name</th>
-                <th style="color: black">Handed Over</th>
-                <th style="color: black">Functional</th>
-                <th style="color: black">Non Functional</th>
-                <th style="color: black">Edit</th>
-                <th style="color: black">Delete</th>
+                <th style="color: white">ID</th>
+                <th style="color: white">District Name</th>
+                <th style="color: white">Handed Over</th>
+                <th style="color: white">Functional</th>
+                <th style="color: white">Non Functional</th>
+                <th style="color: white">Edit</th>
+                <th style="color: white">Delete</th>
             </tr>
             @foreach ($products as $product)
                     <tr>
