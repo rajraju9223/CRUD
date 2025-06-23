@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<div style="background-color: 	#0f5e9c"><h1 style="text-align: center;">JJM District Wise Functional Schemes</h1></div>
+<div style="background-color: #0f5e9c;"><h1 style="text-align: center; color: white">JJM District Wise Functional Schemes</h1></div>
     @if($errors->any())   
     <ul>
         @foreach($errors->all() as $error)
